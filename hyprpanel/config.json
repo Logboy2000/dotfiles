@@ -1,0 +1,95 @@
+{
+  "menus.power.showLabel": true,
+  "theme.bar.floating": false,
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "network",
+        "bluetooth",
+        "systray",
+        "clock",
+        "notifications"
+      ]
+    },
+    "1": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    },
+    "2": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    }
+  },
+  "bar.autoHide": "never",
+  "theme.bar.buttons.enableBorders": false,
+  "theme.bar.border.location": "bottom",
+  "theme.bar.enableShadow": true,
+  "theme.font.name": "FantasqueSansM Nerd Font Mono",
+  "theme.font.label": "FantasqueSansM Nerd Font Mono Bold",
+  "theme.bar.menus.enableShadow": false,
+  "tear": false,
+  "menus.media.displayTime": false,
+  "theme.osd.enable": true,
+  "menus.clock.time.military": false,
+  "menus.clock.weather.location": "Edmonton",
+  "menus.clock.weather.unit": "metric",
+  "menus.clock.weather.interval": 60000,
+  "menus.dashboard.shortcuts.left.shortcut3.command": "flatpak run io.github.equicord.equibop",
+  "menus.dashboard.shortcuts.left.shortcut3.tooltip": "Discord",
+  "menus.dashboard.shortcuts.left.shortcut2.icon": "",
+  "menus.dashboard.shortcuts.left.shortcut1.icon": "󰈹",
+  "menus.dashboard.shortcuts.left.shortcut4.command": "fuzzel",
+  "menus.clock.weather.enabled": false,
+  "theme.bar.menus.monochrome": false,
+  "wallpaper.pywal": false,
+  "theme.bar.menus.opacity": 100,
+  "theme.bar.menus.card_radius": "0.4em",
+  "theme.bar.transparent": false,
+  "menus.dashboard.powermenu.avatar.image": "/home/logan/Pictures/PFP/pfp5.jpg",
+  "menus.dashboard.shortcuts.left.shortcut2.tooltip": "Cider",
+  "menus.dashboard.shortcuts.left.shortcut2.command": "cider",
+  "menus.dashboard.shortcuts.left.shortcut1.tooltip": "Zen Browser",
+  "menus.dashboard.shortcuts.left.shortcut1.command": "zen-browser",
+  "notifications.autoDismiss": false,
+  "notifications.showActionsOnHover": true,
+  "menus.volume.raiseMaximumVolume": false,
+  "menus.clock.time.hideSeconds": false,
+  "theme.bar.buttons.modules.ram.enableBorder": false,
+  "menus.transition": "crossfade",
+  "menus.media.noMediaText": "No Media Currently Playing :(",
+  "theme.bar.location": "top",
+  "bar.customModules.storage.paths": [
+    "/"
+  ]
+}
